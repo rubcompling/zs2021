@@ -16,18 +16,18 @@ This dataset accompanies the following research paper: XXX
 Type      | Text | Time Period | Language Area
 ----------|---------|------------|---------------
 diatopic  | M345 | 14.1 | alem
-	  | M347 | 14.1 | alem
-	  | M348 | 14.1 | thuer
-	  | M350 | 14.1 | rip
-	  | M351 | 14.1 | mbair
-	  | M352 | 14.1 | rhfrk
-	  | M353 | 14.1 | ofrk
+&nbsp; 	  | M347 | 14.1 | alem
+&nbsp; 	  | M348 | 14.1 | thuer
+&nbsp; 	  | M350 | 14.1 | rip
+&nbsp;	  | M351 | 14.1 | mbair
+&nbsp;	  | M352 | 14.1 | rhfrk
+&nbsp;	  | M353 | 14.1 | ofrk
 diachronic | M344 | 13.2 | schwaeb 
-	   | M346 | 13.2 | alem
-   	   | M349 | 13.2 | rip
-           | M345 | 14.1 | alem
-	   | M347 | 14.1 | alem
-	   | M350 | 14.1 | rip
+&nbsp;	   | M346 | 13.2 | alem
+&nbsp;	   | M349 | 13.2 | rip
+&nbsp;     | M345 | 14.1 | alem
+&nbsp;	   | M347 | 14.1 | alem
+&nbsp;	   | M350 | 14.1 | rip
 
 
 ### Directories
@@ -50,8 +50,6 @@ diachronic | M344 | 13.2 | schwaeb
 The development of this software was supported by Deutsche Forschungsgemeinschaft (DFG), Grants Nos. 1558/1, 1558/4 and 1558/5 (project IDs 89085660, 179943363, 200609649).
 
 ## License
-
-License
 
 All software (in the datasets/ and scripts/ directories) is provided under CC BY 4.0.
 
