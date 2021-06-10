@@ -5,7 +5,7 @@ This dataset accompanies the following research paper: XXX
 
 ## Tool settings
 
-* Norma has been used with default settings, except for WLD's train_ngrams=4 (note that input files for Norma's WLD component have to be preprocessed in that initial and final '#' must be added)
+* Norma has been used with default settings, except for WLD's train_ngrams=4 (note that input files for Norma's WLD component have to be preprocessed in that initial and final '#' must be added).
 
 ## Datasets
 
