@@ -15,7 +15,6 @@ This dataset accompanies the following research paper: XXX
 
 Type      | Charter | Time Period | Language Area
 ----------|---------|------------|---------------
-
 diatopic  | M345 | 14.1 | alem
 	  | M347 | 14.1 | alem
 	  | M348 | 14.1 | thuer
