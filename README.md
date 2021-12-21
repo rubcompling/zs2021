@@ -1,6 +1,8 @@
 # zs2021
 
-This dataset accompanies the following research paper: Sandra Waldenberger, Stefanie Dipper, and Ilka Lemke (To appear). Towards a broad-coverage graphemic
+This dataset accompanies the following research paper: 
+
+Sandra Waldenberger, Stefanie Dipper, and Ilka Lemke (To appear). Towards a broad-coverage graphemic
 analysis of large historical corpora. *Zeitschrift für Sprachwissenschaft*, special issue.
 
 ## Tool settings
